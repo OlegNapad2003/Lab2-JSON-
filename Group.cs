@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Lesson26
+namespace JSON
 {
     [Serializable]
     public class Group
