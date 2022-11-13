@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Runtime.Serialization;
 
-namespace Lesson26
+namespace JSON
 {
     [DataContract]
     public class Student
